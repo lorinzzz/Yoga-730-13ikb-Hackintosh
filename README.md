@@ -1,8 +1,11 @@
 # Yoga-730-13ikb-Hackintosh
 
-Works on Big Sur 11.6.8
+Works on Ventura 13.4
 
 - Using stock Samsung PM961 OEM SSD
 - Changed wifi card to Intel 9260
-- Bluetooth works
-- Brightness only has 4 true steps
+
+** Functionalities that do not work ** 
+- Bluetooth does not work (BlueToolFixup.kext not functional - cannot connect) 
+- S3 Sleep (hibernation) does not work
+- 
